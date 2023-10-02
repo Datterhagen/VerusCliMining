@@ -5,7 +5,7 @@
         	"url": "stratum+tcp://eu.luckpool.net:3956",
 		"timeout": 150
 	}],
-	"user": "RCsYgvEqTHV73ZtqTaoYoKVJRuMeSbrtq2.TabA7",
+	"user": "RCsYgvEqTHV73ZtqTaoYoKVJRuMeSbrtq2.TabS4",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
